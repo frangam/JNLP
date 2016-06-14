@@ -29,5 +29,5 @@ Not required. Only double click on JNLP.jar file downloaded to open it.
 
 
 
-   [JNLP]: <https://github.com/garmo/JNLP/releases/download/1.0.0/JNLP.jar>
+   [JNLP]: <https://github.com/garmo/JNLP/releases/download/1.0.0/JNLP-1.0.1.jar>
   
