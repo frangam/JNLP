@@ -12,7 +12,7 @@ A useful graphical desktop application for Natural Language Processing.
 Download current release of [JNLP].
 
 ### Installation
-- Java required. (If you do not have download from [here]).
+- Java 8 required. (If you do not have installed Java software on your computer, download from [here]).
 - In general: double click on JNLP.jar file downloaded to open it.
 - For macOS users: maybe you need to right-click on JNLP.jar file, then click on "Open" and, finally click on "Open" again.
 
