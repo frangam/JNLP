@@ -12,7 +12,9 @@ A useful graphical desktop application for Natural Language Processing.
 Download current release of [JNLP].
 
 ### Installation
-Not required. Only double click on JNLP.jar file downloaded to open it.
+- Java required. (If you do not have download from [here]).
+- In general: double click on JNLP.jar file downloaded to open it.
+- For macOS users: maybe you need to right-click on JNLP.jar file, then click on "Open" and, finally click on "Open" again.
 
 ### How to use
 - Prepare your corpus folders with all documents you want on your hard disk.
@@ -22,6 +24,8 @@ Not required. Only double click on JNLP.jar file downloaded to open it.
 - Then, you will se corpus total words info.
 - Finally, you can search terms typing on text box allocated under upper right corner.
 
+# Screenshots
+<img src="http://i.imgur.com/3l16qgN.jpg" width="700"/>
 
 ### Version
 1.0.0
@@ -30,4 +34,4 @@ Not required. Only double click on JNLP.jar file downloaded to open it.
 
 
    [JNLP]: <https://github.com/garmo/JNLP/releases/download/1.0.0/JNLP-1.0.1.jar>
-  
+  [here]:<https://www.java.com/download/>
