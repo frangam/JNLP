@@ -1,5 +1,6 @@
 # JNLP
-<img src="https://img.shields.io/github/license/frangam/JNLP.svg"> <img src="https://img.shields.io/github/release/frangam/JNLP.svg"/> <img src="https://img.shields.io/github/downloads/frangam/JNLP/total.svg"/>
+<img src="https://img.shields.io/github/license/frangam/JNLP.svg"> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7741152.svg)](https://doi.org/10.5281/zenodo.7741152)
+ <img src="https://img.shields.io/github/release/frangam/JNLP.svg"/> <img src="https://img.shields.io/github/downloads/frangam/JNLP/total.svg"/>
 
 A useful graphical desktop application for Natural Language Processing.
 
