@@ -5,10 +5,10 @@
 
 A useful graphical desktop application for Natural Language Processing.
 
-## Download last release
+### Download last release
 Support us downloading our last release
-- Click on [this link](https://github.com/frangam/JNLP/releases/download/1.0.0/JNLP-1.0.1.jar) or on Downloads counter [![GitHub all releases](https://img.shields.io/github/downloads/frangam/JNLP/total)](https://github.com/frangam/JNLP/releases/download/1.0.0/JNLP-1.0.1.jar)
-- Also, you could support us on ZENODO site: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7741152.svg)](https://doi.org/10.5281/zenodo.7741152)
+- Click on this button to download [![GitHub all releases](https://img.shields.io/github/downloads/frangam/JNLP/total)](https://github.com/frangam/JNLP/releases/download/1.0.0/JNLP-1.0.1.jar)
+- We also appreciate your support downloading it on ZENODO site: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7741152.svg)](https://doi.org/10.5281/zenodo.7741152)
 
 ### Features
   - Loading several documents from a corpus folder
@@ -16,8 +16,6 @@ Support us downloading our last release
   - Total corpus words count 
   - Searching term frequency and relative frequency
 
-### Download
-Download current release of [JNLP].
 
 ### Installation
 - Java 8 required. (If you do not have installed Java software on your computer, download from [here]).
@@ -41,5 +39,5 @@ Download current release of [JNLP].
 
 
 
-   [JNLP]: <https://github.com/garmo/JNLP/releases/download/1.0.0/JNLP-1.0.1.jar>
+
   [here]:<https://www.java.com/download/>
