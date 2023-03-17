@@ -1,8 +1,14 @@
 # JNLP
 <img src="https://img.shields.io/github/license/frangam/JNLP.svg"> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7741152.svg)](https://doi.org/10.5281/zenodo.7741152)
- <img src="https://img.shields.io/github/release/frangam/JNLP.svg"/> <img src="https://img.shields.io/github/downloads/frangam/JNLP/total.svg"/>
+ <img src="https://img.shields.io/github/release/frangam/JNLP.svg"/> 
+[![GitHub all releases](https://img.shields.io/github/downloads/frangam/JNLP/total)](https://github.com/frangam/JNLP/releases/download/1.0.0/JNLP-1.0.1.jar)
 
 A useful graphical desktop application for Natural Language Processing.
+
+## Download last release
+Support us downloading our last release
+- Click on [TowerDefense](https://github.com/frangam/TowerDefense/releases/download/1.0/TowerDefenseTest_Web.zip) or on Downloads counter [![GitHub all releases](https://img.shields.io/github/downloads/frangam/JNLP/total)](https://github.com/frangam/JNLP/releases/download/1.0.0/JNLP-1.0.1.jar)
+- Also, you could support us on ZENODO site: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7741152.svg)](https://doi.org/10.5281/zenodo.7741152)
 
 ### Features
   - Loading several documents from a corpus folder
